@@ -6,10 +6,10 @@ Welcome to the **Liberty Project Miner**! This repository contains the miner for
 
 ## Downloads
 
-**Latest Release v0.3.5:**
+**Latest Release v0.4.2:**
 
-- [Linux (amd64)](https://github.com/LibertyProject-chain/Liberty-miner-testnet-phase-3/releases/download/v0.3.5/liberty-linux-amd64)
-- [Windows (amd64)](https://github.com/LibertyProject-chain/Liberty-miner-testnet-phase-3/releases/download/v0.3.5/liberty-windows-amd64.exe)
+- [Linux (amd64)](https://github.com/LibertyProject-chain/Liberty-miner-testnet-phase-3/releases/download/v0.42/liberty-linux-amd64)
+- [Windows (amd64)](https://github.com/LibertyProject-chain/Liberty-miner-testnet-phase-3/releases/download/v0.42/liberty-windows-amd64.exe)
 
 ---
 
@@ -24,7 +24,12 @@ Welcome to the **Liberty Project Miner**! This repository contains the miner for
 ### Example
 
 ```bash
-./miner http://78.29.35.87:9945 24 0xF4bd729Bb35B3741B465DCEA284E776Cf0444Dc2
+./liberty-linux-amd64 https://rpc.libertyproject.space 12 0xF4bd729Bb35B3741B465DCEA284E776Cf0444Dc2
+```
+or
+
+```bash
+liberty-windows-amd64.exe https://rpc2.libertyproject.space 12 0xF4bd729Bb35B3741B465DCEA284E776Cf0444Dc2
 ```
 
 ### Parameters
