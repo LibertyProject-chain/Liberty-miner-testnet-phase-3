@@ -2,6 +2,7 @@
 
 Welcome to the **Liberty Project Miner**! This repository contains the miner for the Liberty Project testnet. The testnet coin is **tLBRT**, and this miner enables participants to contribute to the network by mining blocks and earning rewards.
 
+Note: Mining directly through the node is a more efficient method of block production in solo mode, as it enables immediate inclusion of found solutions into the blockchain, minimizing delays and eliminating additional processing steps associated with external miners.
 ---
 
 ## Downloads
