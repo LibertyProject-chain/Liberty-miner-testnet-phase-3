@@ -72,11 +72,5 @@ Feel free to create issues or submit pull requests for enhancements.
 
 ---
 
-### License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 Happy mining! 🚀
 
